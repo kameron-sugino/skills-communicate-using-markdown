@@ -17,3 +17,10 @@ var myVar = "Hello, world!";
 s = "Python syntax highlighting"
 print s
 ```
+
+# The instructions are unclear. Do I edit this file to proceed? Imma need to get more hands-on experience if I'm going to gain an intuitive feel for Git
+- [ ] Learn Git markdown
+- [ ] Learn SQL
+- [ ] Introduce myself to the world
+
+# how the heck do I merge this?
